@@ -7,3 +7,6 @@ Aqui você encontrará conteúdos sobre meus conhecimentos em WordPress, desde e
 As pastas com arquivos JSON estão compactadas em formato ZIP. Faça o download e extraia os arquivos para utilizá-los.
 
 Sinta-se à vontade para explorar e contribuir! 😉
+
+
+Meu Instagram: @lennonmachadoo 
